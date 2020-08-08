@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+watching lapenko though i shoudve study..
 Use the left arrow to go back!
